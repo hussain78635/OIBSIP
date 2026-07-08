@@ -38,3 +38,17 @@ http://localhost:8000
 
 - The page uses a local SVG image so it works reliably in local preview.
 - If you are using VS Code, Live Server can also be used to preview the page.
+
+## 📸 Project Preview
+
+### Hero Section
+![Hero](screenshots/hero.png)
+
+### Features
+![Features](screenshots/features.png)
+
+### Pricing
+![Pricing](screenshots/pricing.png)
+
+### Contact
+![Contact](screenshots/contact.png)
