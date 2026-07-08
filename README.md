@@ -20,11 +20,6 @@ A modern, responsive AI SaaS Landing Page developed as part of the **Oasis Infob
 
 ---
 
-## 📸 Project Preview
-
-![Project Preview](screenshots/preview.png)
-
----
 
 ## ✨ Features
 
