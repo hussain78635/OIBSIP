@@ -36,3 +36,20 @@ A modern, responsive AI SaaS Landing Page developed as part of the **Oasis Infob
 ## Projects
 
 - [Project-1-LandingPage](Project-1-LandingPage)
+
+# 📂 Portfolio - Personal Portfolio Website
+A modern, responsive Personal Portfolio website developed as part of the *Oasis Infobyte Web Development Internship (OIBSIP)*.
+
+## 🌐 Live Demo
+🔗 [https://hussain78635.github.io/OIBSIP/Portfolio/](https://hussain78635.github.io/OIBSIP/Portfolio/)
+
+## 📂 GitHub Repository
+🔗 [https://github.com/hussain78635/OIBSIP/tree/main/Portfolio](https://github.com/hussain78635/OIBSIP/tree/main/Portfolio)
+
+## ✨ Features
+- Modern Responsive Design
+- About Me Section
+- Skills & Technologies
+- Project Showcase
+- Contact Form
+- Smooth Scroll & Animations
