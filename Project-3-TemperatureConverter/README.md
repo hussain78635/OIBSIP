@@ -31,9 +31,9 @@ This project allows users to convert temperatures between Celsius, Fahrenheit, a
 
 ## Preview
 
-![Temperature Converter Preview 1](images/Screenshot%202026-07-23%20235646.png)
+![Temperature Converter Preview 1](images/temp-preview-1.png)
 
-![Temperature Converter Preview 2](images/Screenshot%202026-07-23%20235702.png)
+![Temperature Converter Preview 2](images/temp-preview-2.png)
 
 ## Example
 Enter `32` in Celsius and convert it to see the result in Fahrenheit and Kelvin.
