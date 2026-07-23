@@ -24,12 +24,10 @@ A modern, responsive AI SaaS Landing Page developed as part of the Oasis Infobyt
 - Mobile Responsive Layout
 
 ## 📸 Project Preview
-![Landing Page Preview 1](project1-preview-1.png)
-![Landing Page Preview 2](project1-preview-2.png)
-![Landing Page Preview 3](project1-preview-3.png)
-![Landing Page Preview 4](project1-preview-4.png)
-
----
+![Landing Page Preview 1](WebDev-L1-LandingPage/project1-preview-1.png)
+![Landing Page Preview 2](WebDev-L1-LandingPage/project1-preview-2.png)
+![Landing Page Preview 3](WebDev-L1-LandingPage/project1-preview-3.png)
+![Landing Page Preview 4](WebDev-L1-LandingPage/project1-preview-4.png)
 
 # 📂 Portfolio - Personal Portfolio Website
 
@@ -50,9 +48,9 @@ A modern, responsive Personal Portfolio website developed as part of the Oasis I
 - Smooth Scroll & Animations
 
 ## 📸 Project Preview
-![Portfolio Preview 1](project2-preview-1.png)
-![Portfolio Preview 2](project2-preview-2.png)
-![Portfolio Preview 3](project2-preview-3.png)
+![Portfolio Preview 1](WebDev-L1-Portfolio/images/project1.png)
+![Portfolio Preview 2](WebDev-L1-Portfolio/images/project2.png)
+![Portfolio Preview 3](WebDev-L1-Portfolio/images/project3.png)
 
 ---
 
@@ -75,5 +73,5 @@ A modern and interactive temperature converter built as part of the Oasis Infoby
 - Responsive layout for desktop and mobile screens
 
 ## 📸 Project Preview
-![Temperature Converter Preview 1](project3-preview-1.png)
-![Temperature Converter Preview 2](project3-preview-2.png)
+![Temperature Converter Preview 1](WebDev-L1-TemperatureConverter/images/temp-preview-1.png)
+![Temperature Converter Preview 2](WebDev-L1-TemperatureConverter/images/temp-preview-2.png)
