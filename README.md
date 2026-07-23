@@ -102,4 +102,6 @@ A modern and interactive temperature converter built as part of the *Oasis Infob
 
 ## 📸 Project Preview
 
-![Temperature Converter Preview](Project-3-TemperatureConverter/images/temp-converter-preview.svg)
+![Temperature Converter Preview 1](Project-3-TemperatureConverter/images/Screenshot%202026-07-23%20235646.png)
+
+![Temperature Converter Preview 2](Project-3-TemperatureConverter/images/Screenshot%202026-07-23%20235702.png)

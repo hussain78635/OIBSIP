@@ -27,11 +27,13 @@ This project allows users to convert temperatures between Celsius, Fahrenheit, a
 - `index.html` - Main structure of the app
 - `style.css` - Styling and layout
 - `script.js` - Conversion logic and interactivity
-- `images/temp-converter-preview.svg` - Demo preview image
+- `images/` - Screenshot previews
 
 ## Preview
 
-![Temperature Converter Preview](images/temp-converter-preview.svg)
+![Temperature Converter Preview 1](images/Screenshot%202026-07-23%20235646.png)
+
+![Temperature Converter Preview 2](images/Screenshot%202026-07-23%20235702.png)
 
 ## Example
 Enter `32` in Celsius and convert it to see the result in Fahrenheit and Kelvin.
