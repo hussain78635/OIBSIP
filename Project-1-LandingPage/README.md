@@ -41,14 +41,16 @@ http://localhost:8000
 
 ## 📸 Project Preview
 
+## 📸 Project Preview
+
 ### Hero Section
-![Hero](screenshots/hero.png)
+![Hero](project1-preview-1.png)
 
 ### Features
-![Features](screenshots/features.png)
+![Features](project1-preview-2.png)
 
 ### Pricing
-![Pricing](screenshots/pricing.png)
+![Pricing](project1-preview-3.png)
 
 ### Contact
-![Contact](screenshots/contact.png)
+![Contact](project1-preview-4.png)
