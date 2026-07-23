@@ -32,11 +32,13 @@ A modern, responsive AI SaaS Landing Page developed as part of the **Oasis Infob
 
 ## 📸 Project Preview
 
-![Landing Page Preview 1](Project-1-LandingPage/Screenshot%202026-07-08%20181749.png)
+![Landing Page Preview 1](Project-1-LandingPage/project1-preview-1.png)
 
-![Landing Page Preview 2](Project-1-LandingPage/Screenshot%202026-07-08%20181809.png)
+![Landing Page Preview 2](Project-1-LandingPage/project1-preview-2.png)
 
-![Landing Page Preview 3](Project-1-LandingPage/Screenshot%202026-07-08%20181835.png)
+![Landing Page Preview 3](Project-1-LandingPage/project1-preview-3.png)
+
+![Landing Page Preview 4](Project-1-LandingPage/project1-preview-4.png)
 
 ---
 
