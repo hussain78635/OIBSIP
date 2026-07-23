@@ -148,6 +148,16 @@ faqItems.forEach(item => {
 
         question.addEventListener("click", () => {
 
+            faqItems.forEach(other => {
+
+                if (other !== item) {
+
+                    other.classList.remove("open");
+
+                }
+
+            });
+
             item.classList.toggle("open");
 
         });

@@ -10,21 +10,21 @@
 
 :root {
 
-    --primary: #6C63FF;
-    --secondary: #4F46E5;
+    --primary: #7c3aed;
+    --secondary: #ec4899;
 
-    --dark: #08111f;
-    --dark2: #0f172a;
+    --dark: #060816;
+    --dark2: #111827;
 
-    --card: rgba(255,255,255,.05);
+    --card: rgba(255,255,255,.06);
 
     --text: #ffffff;
 
     --paragraph: #cbd5e1;
 
-    --border: rgba(255,255,255,.08);
+    --border: rgba(255,255,255,.12);
 
-    --shadow: 0 15px 40px rgba(0,0,0,.35);
+    --shadow: 0 20px 45px rgba(0,0,0,.34);
 
 }
 
@@ -37,9 +37,9 @@ body{
     font-family:'Poppins',sans-serif;
 
     background:
-        radial-gradient(circle at top left, rgba(108,99,255,.22), transparent 24%),
-        radial-gradient(circle at bottom right, rgba(56,189,248,.16), transparent 20%),
-        var(--dark);
+        radial-gradient(circle at top left, rgba(124,58,237,.28), transparent 26%),
+        radial-gradient(circle at bottom right, rgba(236,72,153,.20), transparent 24%),
+        linear-gradient(135deg, #060816 0%, #111827 100%);
 
     color:var(--text);
 
@@ -77,11 +77,11 @@ NAVBAR
 
     backdrop-filter:blur(18px);
 
-    background:rgba(8,17,31,.78);
+    background:rgba(6,8,22,.85);
 
     border-bottom:1px solid var(--border);
 
-    box-shadow:0 10px 30px rgba(0,0,0,.18);
+    box-shadow:0 10px 30px rgba(0,0,0,.22);
 
 }
 
@@ -137,9 +137,18 @@ NAVBAR
 
 }
 
-.nav-links a:hover{
+.nav-links a:hover,
+.nav-links a.active{
 
     color:var(--primary);
+
+}
+
+.navbar.sticky{
+
+    background:rgba(6,8,22,.95);
+
+    box-shadow:0 12px 30px rgba(0,0,0,.28);
 
 }
 
@@ -153,7 +162,7 @@ NAVBAR
 
     padding:14px 28px;
 
-    background:linear-gradient(135deg, var(--primary), #8b7cff);
+    background:linear-gradient(135deg, var(--primary), var(--secondary));
 
     color:#fff;
 
@@ -163,7 +172,7 @@ NAVBAR
 
     font-weight:600;
 
-    box-shadow:0 10px 24px rgba(108,99,255,.28);
+    box-shadow:0 12px 24px rgba(124,58,237,.25);
 
     transition:.3s;
 
@@ -183,7 +192,7 @@ HERO
 
 .hero{
 
-    padding:170px 0 100px;
+    padding:180px 0 110px;
 
     position:relative;
 
@@ -214,7 +223,7 @@ HERO
 
     height:280px;
 
-    background:#6C63FF;
+    background:#7c3aed;
 
     top:-60px;
 
@@ -228,7 +237,7 @@ HERO
 
     height:220px;
 
-    background:#38BDF8;
+    background:#ec4899;
 
     bottom:-40px;
 
@@ -321,6 +330,7 @@ HERO
 .btn-secondary:hover{
 
     background:var(--primary);
+    transform:translateY(-2px);
 
 }
 
@@ -374,7 +384,7 @@ SECTION TITLE
 
     border-radius:999px;
 
-    background:linear-gradient(90deg, var(--primary), #38BDF8);
+    background:linear-gradient(90deg, var(--primary), var(--secondary));
 
 }
 /* ==========================================
@@ -499,7 +509,7 @@ SECTION TITLE
 
 .stats-grid div{
 
-    background:linear-gradient(145deg, rgba(255,255,255,.06), rgba(255,255,255,.03));
+    background:linear-gradient(145deg, rgba(255,255,255,.08), rgba(255,255,255,.04));
 
     border-radius:20px;
 
@@ -557,7 +567,7 @@ SECTION TITLE
 
 .price-card{
 
-    background:linear-gradient(145deg, rgba(255,255,255,.06), rgba(255,255,255,.03));
+    background:linear-gradient(145deg, rgba(255,255,255,.08), rgba(255,255,255,.04));
 
     border-radius:25px;
 
@@ -644,6 +654,14 @@ SECTION TITLE
 .faq-item:hover{
 
     border-color:var(--primary);
+    transform:translateY(-2px);
+
+}
+
+.faq-item.open{
+
+    border-color:var(--primary);
+    background:rgba(124,58,237,.12);
 
 }
 
@@ -698,7 +716,7 @@ textarea{
 
     border-radius:12px;
 
-    background:#132034;
+    background:#111827;
 
     color:white;
 
@@ -802,6 +820,36 @@ footer{
     background:var(--primary);
 
     transform:translateY(-5px);
+
+}
+
+.top-btn{
+
+    position:fixed;
+    right:24px;
+    bottom:24px;
+    width:48px;
+    height:48px;
+    border:none;
+    border-radius:50%;
+    background:linear-gradient(135deg, var(--primary), var(--secondary));
+    color:white;
+    font-size:1.2rem;
+    cursor:pointer;
+    opacity:0;
+    pointer-events:none;
+    transform:translateY(12px);
+    transition:.3s ease;
+    box-shadow:0 10px 25px rgba(124,58,237,.25);
+    z-index:1000;
+
+}
+
+.top-btn.show{
+
+    opacity:1;
+    pointer-events:auto;
+    transform:translateY(0);
 
 }
 
