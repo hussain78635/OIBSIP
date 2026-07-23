@@ -102,4 +102,4 @@ A modern and interactive temperature converter built as part of the *Oasis Infob
 
 ## 📸 Project Preview
 
-Add a screenshot of the Temperature Converter app here once you place it in the project folder.
+![Temperature Converter Preview](Project-3-TemperatureConverter/images/temp-converter-preview.svg)
