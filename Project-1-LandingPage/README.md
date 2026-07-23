@@ -16,9 +16,9 @@ A modern one-page landing page for an AI productivity platform built with HTML, 
 
 - index.html — main page structure
 - css/style.css — main stylesheet
-- css/css/responsive.css — responsive styles
-- css/css/js/script.js — page interactions
-- images/hero-ai.svg — local hero illustration
+- css/responsive.css — responsive styles
+- js/script.js — page interactions
+- images/ — project images and illustrations
 
 ## Run Locally
 
